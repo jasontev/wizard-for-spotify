@@ -1,7 +1,7 @@
 {
   "name": "wizard-for-spotify",
   "author": "Jason Evans <@jasontev>",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "AGPL-3.0-only",
   "scripts": {
     "dev": "electron-webpack dev",
