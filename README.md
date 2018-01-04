@@ -1,4 +1,5 @@
 # Wizard for Spotify
+[![Build Status](https://travis-ci.org/jasontev/wizard-for-spotify.svg?branch=master)](https://travis-ci.org/jasontev/wizard-for-spotify)
 > Electron app for opening a Genius lyrics page based on your currently playing Spotify song.
 
 ![Gif demonstration](https://raw.githubusercontent.com/jasontev/wizard-for-spotify/master/assets/demo.gif)
